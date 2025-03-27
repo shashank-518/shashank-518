@@ -13,8 +13,8 @@
 ---
 
 ## 💫 About Me:
-I'm a passionate Full-Stack Developer focused on building scalable applications using modern technologies. I enjoy creating robust solutions that optimize performance and enhance user experience.  
-💡 Currently building dynamic web apps and exploring neural networks.
+🚀 Always eager to learn and adapt to new technologies to stay ahead in the ever-evolving tech landscape.
+🎯 Passionate about problem-solving, clean code, and delivering seamless digital experiences.
 
 ---
 
